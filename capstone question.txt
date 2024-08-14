@@ -1,0 +1,28 @@
+Good day everyone. Hope we are doing just fine.
+
+
+Your first capstone project is to perform the following
+
+1. A data will be sent here
+2. Perform data cleaning with python
+3. Perform visualization using python to derive insights
+4. Document all the steps properly with a markdown
+5. Write about your findings and give recommendations
+6. Keep or write about only very important steps and don't make it boring
+
+
+
+Project 2.
+1. Load the data on SQL using PostgreSQL
+2. Retrieve the following info
+       I. Most voted movie
+       II. Most watched genre 
+       III. Movie with the highest runtime 
+       Iv. Year with the most movie 
+       V. The most watched movie
+
+
+Deadline for submission is in 1 week. Your time starts now.
+
+
+Submit the file and also upload the video on LinkedIn. Make sure to tag me and LM Tech
